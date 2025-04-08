@@ -1,5 +1,10 @@
 # 📁 Portfólio - Pedro Santos Kajiya
 
+<p align="center">
+  <img src="https://github.com/kajiyap.png" width="300" height="300" style="border-radius: 50%;" alt="Foto de perfil do GitHub">
+</p>
+
+
 ## 👋 Introdução
 
 ### 🎓 Histórico Acadêmico  
