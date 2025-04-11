@@ -31,8 +31,8 @@ Atualmente continuo na empresa, buscando uma oportunidade efetiva na área de **
 ## 📞 Contatos
 
 - 📧 E-mail: kajiyapedro@gmail.com  
-- 🔗 LinkedIn: [*Adicionar link aqui*]  
-- 💻 GitHub: [*Adicionar link aqui*]  
+- 🔗 LinkedIn: https://www.linkedin.com/in/pedro-santos-kajiya-65763b260/
+- 💻 GitHub: https://github.com/kajiyap
 
 ---
 
