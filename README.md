@@ -88,7 +88,7 @@ Tudo isso para proporcionar um aprendizado completo, imersivo e aplicável em ce
 
 Atuei como membro da equipe de desenvolvimento, com foco em:
 
-- Criação de **interfaces web responsivas**  
+- Criação de **interfaces web responsivas**, sendo páginas sobre as funções do metódo SCRUM
 - Desenvolvimento de uma **tabela interativa** baseada no método PACER, utilizando apenas **HTML, CSS e Python**  
 - Suporte nas **entregas finais** com atenção à usabilidade e funcionalidade completa da aplicação
 
