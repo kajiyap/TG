@@ -123,14 +123,14 @@ Desenvolvemos uma **plataforma web interativa** que ensina os fundamentos e prá
 
 </details>
 
-<details><summary><strong>Segunda API - C0demain</strong>strong></summary>
+<details>📌 <strong>Segunda API - C0demain (Função: Product Owner)</strong>
 
 ---
 
 ## 🤖 Projeto Parrot AI — Chatbot com LangChain em Java
 
-👨‍🏫 **Disciplina:** Análise e Desenvolvimento de Sistemas — Fatec São José dos Campos
-📆 **Período:** Segundo semestre
+👨‍🏫 **Professor P2:** ?  
+👨‍🏫 **Professor M2:** ?
 
 ---
 
@@ -204,6 +204,122 @@ O sistema é **desktop**, com uma interface simples e intuitiva, além de contar
 * **Criatividade:** Ao receber demandas subjetivas, como “tornar o sistema mais intuitivo”, propus soluções visuais e melhorias na interface (baseadas nos protótipos do Figma) que atenderam às expectativas do cliente e foram bem recebidas.
 * **Empatia e Escuta Ativa:** Durante as reuniões, mantive o foco em compreender não apenas o que o cliente queria, mas **por que** ele precisava, o que me ajudou a priorizar funcionalidades que realmente entregariam valor.
 * **Liderança Colaborativa:** Embora não atuasse diretamente no código, incentivei a equipe a buscar soluções, tirei dúvidas sobre o que era mais relevante para o cliente e ajudei na definição de prioridades de cada sprint.
+
+---
+
+</details>
+
+<details>📌 <strong>Terceira API - C0demain (Função: Time de desenvolvimento)</strong>
+---
+
+## 📊 Projeto Sales Dash — Dashboard de Comissões de Vendas
+
+👨‍🏫 **Professor P2:** ?  
+👨‍🏫 **Professor M2:** ?
+🤝 **Parceria:** Pro4Tech
+
+---
+
+### ❗ Problema
+
+Empresas que trabalham com vendas frequentemente enfrentam desafios na **gestão de comissões**, especialmente quando existem múltiplos tipos de vendas e regras de remuneração diferentes. O controle manual desses cálculos pode gerar erros, retrabalho e perda de produtividade.
+
+---
+
+### 💡 Solução
+
+Desenvolvemos o **Sales Dash**, uma plataforma web que permite:
+
+* 📥 **Upload de vendas** de forma simples e rápida.
+* 📊 **Cálculo automático das comissões**, considerando os diferentes tipos de vendas:
+
+  * Produto novo para novo cliente
+  * Produto antigo para novo cliente
+  * Produto novo para cliente antigo
+  * Produto antigo para cliente antigo
+* 📈 **Dashboard interativo**, com visualização de:
+
+  * Dados de vendas
+  * Ranking de vendedores
+  * Desempenho de produtos
+  * Filtros por período, vendedor e produto
+* 🔍 **Análise detalhada com gráficos e tabelas editáveis**, facilitando tomadas de decisão estratégicas.
+
+---
+
+### 🔥 Tecnologias Utilizadas
+
+| Tecnologia             | Principal Uso                                                                                  |
+| ---------------------- | ---------------------------------------------------------------------------------------------- |
+| **Node.js (API)**      | Back-end responsável por gerenciar dados de vendas, vendedores e regras de comissão.           |
+| **React + TypeScript** | Front-end, responsável pela interface da dashboard e pela interação dos usuários com os dados. |
+| **PostgreSQL**         | Banco de dados relacional para armazenamento de vendas, comissões e cadastros.                 |
+| **Postman**            | Testes de API e documentação das rotas.                                                        |
+
+---
+
+### 🛠️ Ferramentas
+
+| Ferramenta | Uso                                                                                     |
+| ---------- | --------------------------------------------------------------------------------------- |
+| **Trello** | Gestão ágil de tarefas, planejamento de sprints e acompanhamento do progresso.          |
+| **Figma**  | Prototipação da interface e definição da experiência do usuário (UI/UX).                |
+| **Excel**  | Auxílio na organização de regras de comissão, testes manuais e relatórios preliminares. |
+| **GitHub** | Controle de versão, colaboração no desenvolvimento e hospedagem do código.              |
+
+---
+
+### 🔄 Metodologia Ágil — Scrum
+
+| Evento/Artefato          | Aplicação no Projeto                                                                                  |
+| ------------------------ | ----------------------------------------------------------------------------------------------------- |
+| **Product Backlog**      | Listagem e priorização dos requisitos, funcionalidades e melhorias, organizada pelo Product Owner.    |
+| **Sprint Backlog**       | Seleção dos itens a serem desenvolvidos em cada sprint, definidos pela equipe de desenvolvimento.     |
+| **Daily Scrum**          | Reuniões rápidas diárias para alinhamento e acompanhamento do progresso.                              |
+| **Sprint Review**        | Apresentação dos incrementos desenvolvidos para o cliente (Pro4Tech), coleta de feedback e ajustes.   |
+| **Sprint Retrospective** | Avaliação do que funcionou, do que pode melhorar e planejamento de melhorias para os próximos ciclos. |
+| **Incremento**           | A cada sprint, entregamos uma versão funcional e testada da dashboard, com melhorias progressivas.    |
+
+---
+
+### 🏆 Minhas Contribuições (Desenvolvedor Front-End)
+
+* 🖥️ **Desenvolvimento da página Home (Dashboard)**, principal tela do sistema.
+* 🔗 **Integração com a API**, através da criação de requisições para busca de dados de vendas, vendedores, produtos e regras de comissão.
+* 🎯 **Criação de filtros dinâmicos**, permitindo ao usuário consultar dados por:
+
+  * Período (data)
+  * Vendedor
+  * Produto
+* 📊 **Desenvolvimento dos gráficos e tabelas**, trazendo uma visão clara dos principais indicadores:
+
+  * Rankings de vendedores
+  * Desempenho de produtos
+  * Volume de vendas por período
+* 🎨 **Estilização focada em UI/UX**, garantindo uma interface intuitiva, limpa, responsiva e agradável visualmente.
+* 🏗️ **Organização dos dados recebidos da API**, transformando os dados brutos em informações facilmente compreensíveis na interface.
+
+---
+
+### 🛠️ Hard Skills
+
+| Habilidade                                                        | Nível de Proficiência                                                                   |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **React + TypeScript**                                            | Intermediário (componentização, hooks, consumo de API, manipulação de estado e props)   |
+| **Consumo de APIs (REST)**                                        | Intermediário (requisições GET, POST, PUT, DELETE, tratamento de erros, loading states) |
+| **Manipulação de dados no Front-End**                             | Intermediário (filtragem, ordenação e formatação de dados para dashboards)              |
+| **Estilização (CSS, Styled Components, Tailwind ou equivalente)** | Intermediário (layouts responsivos, UI/UX agradável e consistente)                      |
+| **Versionamento com Git e GitHub**                                | Intermediário (criação de branches, commits, pull requests e resolução de conflitos)    |
+
+---
+
+### 🤝 Soft Skills (com exemplos práticos)
+
+* **Comunicação:** Participei ativamente das Daily Scrums e das revisões de sprint, compartilhando os desafios encontrados no desenvolvimento e alinhando constantemente as expectativas.
+* **Organização:** Estruturei meu código de forma clara e modular, o que facilitou tanto a manutenção quanto a evolução do projeto, além de gerenciar bem minhas tarefas no Trello.
+* **Colaboração:** Trabalhei de forma próxima com os colegas do back-end, garantindo que as integrações API funcionassem corretamente, e também com o time de UI/UX, implementando o design proposto no Figma.
+* **Resolução de Problemas:** Durante o desenvolvimento do dashboard, enfrentei desafios na organização dos filtros e na manipulação dos dados retornados da API. Resolvi esses problemas criando funções específicas para tratamento e formatação dos dados, garantindo que os gráficos e tabelas exibissem informações corretas.
+* **Foco em Experiência do Usuário:** Priorizei uma interface limpa, objetiva e responsiva, pensando sempre na melhor experiência possível para o usuário final, tornando a navegação fácil e intuitiva.
 
 ---
 
