@@ -122,3 +122,89 @@ Desenvolvemos uma **plataforma web interativa** que ensina os fundamentos e prá
 ---
 
 </details>
+
+<details><summary><strong>Segunda API - C0demain</strong>strong></summary>
+
+---
+
+## 🤖 Projeto Parrot AI — Chatbot com LangChain em Java
+
+👨‍🏫 **Disciplina:** Análise e Desenvolvimento de Sistemas — Fatec São José dos Campos
+📆 **Período:** Segundo semestre
+
+---
+
+### ❗ Problema
+
+Empresas frequentemente lidam com grandes volumes de documentos e informações. Localizar dados específicos nesses arquivos pode ser um processo demorado e ineficiente. A proposta do projeto é desenvolver uma solução que permita consultar e extrair informações de forma rápida e precisa a partir de arquivos, utilizando um chatbot inteligente.
+
+---
+
+### 💡 Solução
+
+Criamos o **Parrot AI**, um chatbot desktop desenvolvido em **Java** utilizando a biblioteca **LangChain4j**, capaz de:
+
+* 🧠 **Interpretar o conteúdo de arquivos** carregados pelo usuário.
+* 💬 **Responder perguntas complexas** com base nesses arquivos.
+* 🗂️ Facilitar o acesso a informações específicas de forma rápida, prática e inteligente.
+
+O sistema é **desktop**, com uma interface simples e intuitiva, além de contar com um **cadastro de usuários** para controle de acesso.
+
+---
+
+### 🔥 Tecnologias Utilizadas
+
+| Tecnologia       | Principal Uso                                                                                             |
+| ---------------- | --------------------------------------------------------------------------------------------------------- |
+| **Java (Swing)** | Desenvolvimento da interface gráfica da aplicação desktop.                                                |
+| **LangChain4j**  | Biblioteca responsável por conectar o chatbot a modelos de linguagem e interpretar os dados dos arquivos. |
+| **MySQL**        | Armazenamento de dados dos usuários, histórico e configurações do sistema.                                |
+| **Gradle**       | Gerenciamento de dependências e automação de build do projeto.                                            |
+
+---
+
+### 🛠️ Ferramentas
+
+| Ferramenta             | Uso                                                                        |
+| ---------------------- | -------------------------------------------------------------------------- |
+| **Eclipse**            | Ambiente de desenvolvimento para codificação e testes.                     |
+| **Trello**             | Gerenciamento das sprints, backlog e acompanhamento das tarefas.           |
+| **Figma**              | Criação de protótipos da interface desktop para alinhamento com o cliente. |
+| **Canva**              | Criação de apresentações visuais e materiais gráficos para apresentação.   |
+| **Excel e PowerPoint** | Suporte na documentação, relatórios e apresentações do projeto.            |
+| **GitHub**             | Controle de versão e documentação colaborativa do código.                  |
+
+---
+
+### 👨‍💻 Minhas Contribuições (Product Owner)
+
+* 💼 **Planejamento e condução das Sprints**, garantindo que as tarefas fossem organizadas de acordo com as prioridades do cliente.
+* 🗣️ **Intermediação entre cliente e equipe de desenvolvimento**, traduzindo as demandas do cliente para requisitos técnicos claros e objetivos.
+* 🔍 **Validação das entregas**, conferindo se o que foi desenvolvido realmente atendia às necessidades e expectativas do cliente.
+* 📝 **Acompanhamento constante das tarefas no Trello**, ajustando prazos e prioridades conforme necessário.
+* 🤝 Atuei como facilitador nos **diálogos semanais com o cliente**, promovendo uma comunicação eficiente entre as partes envolvidas.
+
+---
+
+### 🛠️ Hard Skills
+
+| Habilidade                                   | Nível de Proficiência                                                                           |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Gerenciamento de Projetos (Scrum/Trello)** | Intermediário (planejamento de sprints, backlog, acompanhamento e ajustes de tarefas)           |
+| **Documentação em Figma e Canva**            | Intermediário (criação de protótipos e apresentações visuais para entendimento dos requisitos)  |
+| **Uso de GitHub**                            | Intermediário (acompanhar versionamento, revisar alterações e garantir integridade dos commits) |
+| **Análise de Requisitos**                    | Intermediário (tradução das demandas do cliente para especificações técnicas para a equipe)     |
+
+---
+
+### 🤝 Soft Skills (com exemplos práticos)
+
+* **Comunicação Eficaz:** Participei ativamente das reuniões com o cliente, coletando feedbacks e esclarecendo dúvidas tanto do lado do cliente quanto do time técnico. Exemplo: Quando o cliente solicitou ajustes na interface, consegui entender exatamente sua dor e traduzi-la em requisitos claros para os desenvolvedores.
+* **Organização:** Gerenciei o Trello de forma eficiente, criando checklists detalhados, definindo responsáveis e prazos claros, o que facilitou o andamento das sprints.
+* **Criatividade:** Ao receber demandas subjetivas, como “tornar o sistema mais intuitivo”, propus soluções visuais e melhorias na interface (baseadas nos protótipos do Figma) que atenderam às expectativas do cliente e foram bem recebidas.
+* **Empatia e Escuta Ativa:** Durante as reuniões, mantive o foco em compreender não apenas o que o cliente queria, mas **por que** ele precisava, o que me ajudou a priorizar funcionalidades que realmente entregariam valor.
+* **Liderança Colaborativa:** Embora não atuasse diretamente no código, incentivei a equipe a buscar soluções, tirei dúvidas sobre o que era mais relevante para o cliente e ajudei na definição de prioridades de cada sprint.
+
+---
+
+</details>
