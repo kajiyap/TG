@@ -44,6 +44,7 @@ Atualmente continuo na empresa, buscando uma oportunidade efetiva na área de **
 
 ### 🔥 Projeto da Empresa Interna - FATEC
 
+🔗 Código-fonte e documentação: [GitHub](https://github.com/erickhoawata/DDT-1-Sem.git)
 👨‍🏫 **Professor P2:** Antônio Egydio São Thiago Graça
 👨‍🏫 **Professor M2:** Jean Carlos Lourenço Costa
 
@@ -67,8 +68,6 @@ Desenvolvemos uma **plataforma web interativa** que ensina os fundamentos e prá
 * 🧭 **Trilhas de aprendizado personalizadas** para diferentes perfis
 * 📊 **Tabela interativa de avaliação baseada no método PACER (FATEC-SJC)**
 * 🧠 **Sistema de avaliação do conhecimento**
-
-🔗 [Link para o GitHub](#)
 
 ---
 
@@ -129,8 +128,9 @@ Desenvolvemos uma **plataforma web interativa** que ensina os fundamentos e prá
 
 ## 🤖 Projeto Parrot AI — Chatbot com LangChain em Java
 
-👨‍🏫 **Professor P2:** ?  
-👨‍🏫 **Professor M2:** ?
+🔗 Código-fonte e documentação: [GitHub](https://github.com/C0demain/ParrotAI.git)
+👨‍🏫 **Professor P2:** Giuliano Araujo Bertoti
+👨‍🏫 **Professor M2:** Claudio Etelvino de Lima
 
 ---
 
@@ -214,8 +214,9 @@ O sistema é **desktop**, com uma interface simples e intuitiva, além de contar
 
 ## 📊 Projeto Sales Dash — Dashboard de Comissões de Vendas
 
-👨‍🏫 **Professor P2:** ?  
-👨‍🏫 **Professor M2:** ?
+🔗 Código-fonte e documentação: [GitHub](https://github.com/C0demain/sales-dash.git)
+👨‍🏫 **Professor P2:** Fernando Masanori Ashikaga
+👨‍🏫 **Professor M2:** Claudio Etelvino de Lima
 🤝 **Parceria:** Pro4Tech
 
 ---
@@ -320,6 +321,231 @@ Desenvolvemos o **Sales Dash**, uma plataforma web que permite:
 * **Colaboração:** Trabalhei de forma próxima com os colegas do back-end, garantindo que as integrações API funcionassem corretamente, e também com o time de UI/UX, implementando o design proposto no Figma.
 * **Resolução de Problemas:** Durante o desenvolvimento do dashboard, enfrentei desafios na organização dos filtros e na manipulação dos dados retornados da API. Resolvi esses problemas criando funções específicas para tratamento e formatação dos dados, garantindo que os gráficos e tabelas exibissem informações corretas.
 * **Foco em Experiência do Usuário:** Priorizei uma interface limpa, objetiva e responsiva, pensando sempre na melhor experiência possível para o usuário final, tornando a navegação fácil e intuitiva.
+
+---
+
+</details>
+
+<details><summary>📌 <strong>Quarta API - C0demain (Função: Time de desenvolvimento)</strong></summary>
+
+---
+
+## 🔧 Projeto Logflow — Gestão de Ordens de Serviço
+
+🔗 Código-fonte e documentação: [GitHub](https://github.com/C0demain/logflow.git)
+👨‍🏫 **Professor P2:** Juliana Forin Pasquini Martinez
+👨‍🏫 **Professor M2:** Fabiano Sabha Walczak
+🤝 **Parceria:** JJM Log
+
+---
+
+### ❗ Problema
+
+A empresa **JJM Log** enfrentava dificuldades na **gestão das ordens de serviço**, especialmente no acompanhamento das etapas dos processos internos, controle de documentos, roteirização de viagens e comunicação entre os setores. O controle manual causava atrasos, falhas na comunicação e perda de produtividade.
+
+---
+
+### 💡 Solução
+
+Desenvolvemos o **Logflow**, uma plataforma web que permite:
+
+* 🔄 **Acompanhamento das ordens de serviço**, com visualização das etapas, status e tarefas.
+* 🔗 **Portal do colaborador**, onde cada funcionário acessa seus documentos (holerites, atestados, etc.), tarefas e ordens.
+* 📊 **Dashboard com indicadores**, apresentando dados de desempenho dos setores (operacional, financeiro e comercial).
+* 📁 **Gestão de arquivos**, com base de documentos e arquivos internos organizados por setor.
+* 🚚 **Roteirização inteligente**, otimizando o planejamento de viagens com base na localização dos veículos e agentes.
+* 📅 **Agenda de tarefas e compromissos**, vinculada às ordens de serviço.
+* 💬 **Chat interno**, facilitando a comunicação dos funcionários dentro da empresa.
+
+---
+
+### 🔥 Tecnologias Utilizadas
+
+| Tecnologia           | Principal Uso                                                                           |
+| -------------------- | --------------------------------------------------------------------------------------- |
+| **NestJS (Node.js)** | Back-end com APIs REST, responsável pelas regras de negócio e acesso ao banco de dados. |
+| **React + Next.js**  | Front-end, interface web do sistema.                                                    |
+| **TypeScript**       | Tipagem segura e robustez no desenvolvimento front-end e back-end.                      |
+| **PostgreSQL**       | Banco de dados relacional.                                                              |
+| **Swagger**          | Documentação da API.                                                                    |
+| **Docker**           | Containers para padronizar o ambiente de desenvolvimento e deploy.                      |
+
+---
+
+### 🛠️ Ferramentas
+
+| Ferramenta  | Uso                                                                            |
+| ----------- | ------------------------------------------------------------------------------ |
+| **Trello**  | Gestão ágil de tarefas, planejamento de sprints e acompanhamento do progresso. |
+| **Figma**   | Prototipação da interface e definição da experiência do usuário (UI/UX).       |
+| **Postman** | Testes e validação das APIs.                                                   |
+| **GitHub**  | Versionamento de código, organização das branches e colaboração em equipe.     |
+
+---
+
+### 🔄 Metodologia Ágil — Scrum
+
+| Evento/Artefato          | Aplicação no Projeto                                                                         |
+| ------------------------ | -------------------------------------------------------------------------------------------- |
+| **Product Backlog**      | Lista priorizada dos requisitos e funcionalidades.                                           |
+| **Sprint Backlog**       | Seleção das tarefas que seriam entregues a cada sprint.                                      |
+| **Daily Scrum**          | Reuniões diárias para alinhamento e acompanhamento dos desafios e progresso.                 |
+| **Sprint Review**        | Apresentação dos resultados ao cliente (JJM Log) e coleta de feedback.                       |
+| **Sprint Retrospective** | Discussão sobre pontos fortes, dificuldades e melhorias para os próximos ciclos.             |
+| **Incremento**           | Entregas contínuas com versões testadas e funcionando, evoluindo o sistema progressivamente. |
+
+---
+
+### 🏆 Minhas Contribuições (Desenvolvedor Front-End)
+
+* 🖥️ **Desenvolvimento da tela de gestão das ordens de serviço**, principal funcionalidade do sistema.
+* 🔗 **Integração com a API**, realizando chamadas para busca, criação, atualização e exclusão de ordens e tarefas.
+* 🎯 **Implementação da tela de detalhamento de ordens**, mostrando:
+
+  * Status das etapas
+  * Lista de tarefas com prazos, responsáveis, custos e descrições
+  * Histórico de movimentações da ordem
+* 📊 **Criação de filtros dinâmicos**, permitindo busca por:
+
+  * Status da ordem
+  * Responsável ou setor
+  * Período de execução
+* 🎨 **Desenvolvimento da interface com foco em UX**, tornando as telas responsivas, intuitivas e agradáveis.
+* 🏗️ **Organização e tratamento dos dados da API**, transformando os dados brutos em informações bem estruturadas na interface.
+
+---
+
+### 🛠️ Hard Skills
+
+| Habilidade                              | Nível de Proficiência                                                               |
+| --------------------------------------- | ----------------------------------------------------------------------------------- |
+| **React + Next.js + TypeScript**        | Intermediário (componentização, hooks, roteamento dinâmico e integração com APIs)   |
+| **Consumo de APIs (REST)**              | Intermediário (requisições, tratamento de erros, loading e estados da interface)    |
+| **Manipulação de dados no Front-End**   | Intermediário (filtros, paginação, ordenação e formatação para dashboards e listas) |
+| **Estilização (TailwindCSS + DaisyUI)** | Intermediário (layouts responsivos, design limpo, foco em usabilidade)              |
+| **Versionamento com Git e GitHub**      | Intermediário (branches, commits, pull requests, merge e resolução de conflitos)    |
+
+---
+
+### 🤝 Soft Skills (com exemplos práticos)
+
+* **Comunicação:** Participei ativamente das dailies e revisões, alinhando o desenvolvimento com o time e o cliente.
+* **Organização:** Mantive meu código limpo, modularizado e alinhado ao design do Figma, além de gerenciar bem minhas tarefas no Trello.
+* **Colaboração:** Trabalhei diretamente com o back-end para alinhar o funcionamento da API e com o time de design para garantir a fidelidade visual.
+* **Resolução de Problemas:** Criei soluções para tratar os dados vindos da API e resolver desafios como filtros complexos e atualização em tempo real das ordens.
+* **Foco no Usuário:** Garanti uma navegação fluida e uma interface intuitiva, que facilita o acompanhamento das ordens pelos colaboradores da empresa.
+
+---
+
+</details>
+
+<details><summary>📌 <strong>Quinta API - C0demain (Função: Time de desenvolvimento)</strong></summary>
+
+---
+
+## 💸 Projeto RefundMe — Sistema de Reembolso Corporativo
+
+🔗 Código-fonte e documentação: [GitHub](https://github.com/C0demain/refundme.git)
+👨‍🏫 **Professor P2:** Gerson da Penha Neto  
+👨‍🏫 **Professor M2:** Ronaldo Emerick Santos
+🤝 **Parceria:** GSW Software
+
+---
+
+## ❗ Problema
+
+Empresas que operam com projetos e equipes externas frequentemente enfrentam dificuldades na **gestão de solicitações de reembolso**, especialmente quando precisam controlar despesas, limites por projeto e aprovações de forma manual ou descentralizada. Esse processo, quando não automatizado, gera atrasos, erros e retrabalho tanto para os funcionários quanto para os gestores.
+
+---
+
+## 💡 Solução
+
+Desenvolvemos o **RefundMe**, um sistema completo e escalável que permite:
+
+* 📲 **Funcionários** realizarem o cadastro de solicitações de reembolso, anexarem comprovantes e acompanharem o status em tempo real.
+* 🧑‍💼 **Administradores** controlarem solicitações, aprovarem ou rejeitarem despesas e gerenciarem projetos, usuários e centros de custo através de um painel web.
+* ☁️ Uma **API robusta em NestJS**, que conecta todo o ecossistema com autenticação segura, armazenamento em nuvem e deploy escalável.
+
+O projeto foi pensado para atender tanto ao lado operacional (funcionários) quanto ao gerencial (administração), entregando uma solução eficiente e intuitiva.
+
+---
+
+### 🔥 Tecnologias Utilizadas
+
+| Tecnologia              | Principal Uso                                                               |
+| ----------------------- | --------------------------------------------------------------------------- |
+| **NestJS + TypeScript** | Backend: API REST robusta, autenticação, armazenamento e lógica de negócio. |
+| **MongoDB + Mongoose**  | Banco de dados não relacional, hospedado no MongoDB Atlas.                  |
+| **Next.js + React**     | Front-end web (Backoffice) para administradores.                            |
+| **React Native + Expo** | Aplicativo mobile para funcionários (removido na última sprint).            |
+| **AWS S3 e EC2**        | Armazenamento de imagens (comprovantes) e hospedagem da API.                |
+| **Postman + Swagger**   | Testes e documentação da API.                                               |
+
+---
+
+### 🛠️ Ferramentas
+
+| Ferramenta          | Uso                                                                              |
+| ------------------- | -------------------------------------------------------------------------------- |
+| **Trello**          | Organização das sprints e acompanhamento do progresso.                           |
+| **GitHub Projects** | Gestão de backlog, tarefas e versionamento do projeto em repositórios separados. |
+| **Figma**           | Design das interfaces e experiência do usuário (UI/UX).                          |
+| **Canva**           | Criação de materiais visuais para apresentações e documentação.                  |
+
+---
+
+### 🔄 Metodologia Ágil — Scrum
+
+| Evento/Artefato          | Aplicação no Projeto                                                                        |
+| ------------------------ | ------------------------------------------------------------------------------------------- |
+| **Product Backlog**      | Listagem e priorização dos requisitos, funcionalidades e melhorias.                         |
+| **Sprint Backlog**       | Seleção dos itens a serem desenvolvidos em cada sprint.                                     |
+| **Daily Scrum**          | Reuniões rápidas para alinhamento diário do time.                                           |
+| **Sprint Review**        | Apresentação dos incrementos desenvolvidos para a empresa GSW, com coleta de feedback.      |
+| **Sprint Retrospective** | Análise dos pontos fortes, desafios e definição de melhorias para os próximos ciclos.       |
+| **Incremento**           | Entregas progressivas, incluindo o backoffice web funcional e a API totalmente operacional. |
+
+---
+
+### 🏆 Minhas Contribuições (Desenvolvedor Fullstack)
+
+* 🏗️ **Desenvolvimento do módulo de Projetos**, tanto na aplicação web (Next.js) quanto no mobile (React Native) — posteriormente removido no mobile por decisão do time.
+* 🧑‍💻 **Funcionalidades desenvolvidas para o painel de Projetos:**
+
+  * 📄 **Cadastro, edição, listagem e exclusão de projetos**.
+  * 🔍 **Criação de painel individual de cada projeto**, exibindo:
+
+    * 📑 Suas solicitações de reembolso.
+    * 👥 Seus usuários vinculados.
+    * 💰 Dados e limites financeiros do projeto.
+* 🔗 **Integração total com a API NestJS**, garantindo comunicação eficiente e segura entre front-end e back-end.
+* 🖥️ **Implementação de tabelas dinâmicas, filtros e navegação intuitiva** na interface web.
+* 🎨 **Cuidados com UI/UX**, aplicando padrões consistentes de design, responsividade e acessibilidade.
+* 🧠 **Ajuste e mapeamento dos dados recebidos da API**, transformando-os em informações organizadas e úteis na interface administrativa.
+
+---
+
+### 🛠️ Hard Skills
+
+| Habilidade                                                | Nível de Proficiência                                                                    |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Next.js + React + TypeScript**                          | Intermediário (componentização, roteamento, hooks, consumo de API, manipulação de dados) |
+| **React Native + Expo**                                   | Intermediário (componentização, navegação, consumo de API, validação de dados)           |
+| **NestJS + TypeScript (API)**                             | Intermediário (CRUD, autenticação JWT, uploads, conexão com MongoDB, deploy na AWS)      |
+| **MongoDB + Mongoose**                                    | Intermediário (modelagem de dados, relações, queries)                                    |
+| **Consumo e desenvolvimento de APIs REST**                | Intermediário (requisições, tratamento de respostas, loading, erros)                     |
+| **Estilização (Chakra UI, TailwindCSS, Gluestack UI)**    | Intermediário (design responsivo, acessível e alinhado às boas práticas de UI/UX)        |
+| **Versionamento com Git e GitHub (Monorepo e Multirepo)** | Intermediário (criação de branches, commits, PRs, resolução de conflitos)                |
+
+---
+
+### 🤝 Soft Skills (com exemplos práticos)
+
+* **Comunicação:** Participei ativamente das reuniões com o time e com a GSW, esclarecendo dúvidas, levantando melhorias e alinhando entregas.
+* **Organização:** Modelei e documentei o módulo de Projetos, mantendo código limpo, organizado e facilmente escalável.
+* **Colaboração:** Trabalhei de forma integrada com as equipes de front e back-end, garantindo que o fluxo de dados entre API e interface funcionasse perfeitamente.
+* **Resolução de Problemas:** Ao implementar o painel de Projetos, enfrentei desafios na agregação dos dados (solicitações, usuários e limites), solucionados com ajustes na modelagem do banco e na API.
+* **Flexibilidade e Adaptação:** Na última sprint, com a decisão de remover o módulo de Projetos do mobile, reestruturei rapidamente meu foco para fortalecer e aprimorar a versão web.
 
 ---
 
