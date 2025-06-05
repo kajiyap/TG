@@ -38,7 +38,7 @@ Atualmente continuo na empresa, buscando uma oportunidade efetiva na área de **
 
 ## 📝 Meus Projetos
 
-<details><summary>📌 <strong>Primeira API - DDT (Função: Scrum Master)</strong></summary>
+<details><summary>📌 <strong>Primeira API - DDT (Função: Time de desenvolvimento)</strong></summary>
 
 ---
 
