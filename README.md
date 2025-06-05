@@ -42,24 +42,24 @@ Atualmente continuo na empresa, buscando uma oportunidade efetiva na área de **
 
 ---
 
-## 🔥 Projeto da Empresa Interna - FATEC
+### 🔥 Projeto da Empresa Interna - FATEC
 
 👨‍🏫 **Professor P2:** Antônio Egydio São Thiago Graça
 👨‍🏫 **Professor M2:** Jean Carlos Lourenço Costa
 
 ---
 
-## ❗ Problema
+### ❗ Problema
 
 Sempre que um novo colaborador é contratado e não possui familiaridade com o **Método Scrum**, um funcionário experiente precisa interromper suas tarefas para explicar os conceitos. Isso gera perda de produtividade e sobrecarga para a equipe.
 
 ---
 
-## 💡 Solução
+### 💡 Solução
 
 Desenvolvemos uma **plataforma web interativa** que ensina os fundamentos e práticas do Scrum de forma prática, acessível e dinâmica.
 
-### Funcionalidades:
+#### Funcionalidades:
 
 * 📚 **Conteúdos didáticos** com exemplos e fluxos explicativos
 * 🧩 **Simulações interativas** dos papéis e cerimônias do Scrum
@@ -72,7 +72,7 @@ Desenvolvemos uma **plataforma web interativa** que ensina os fundamentos e prá
 
 ---
 
-## 💻 Tecnologias Utilizadas
+### 💻 Tecnologias Utilizadas
 
 | Tecnologia    | Principal Uso                                                                              |
 | ------------- | ------------------------------------------------------------------------------------------ |
@@ -89,7 +89,7 @@ Desenvolvemos uma **plataforma web interativa** que ensina os fundamentos e prá
 
 ---
 
-## 👨‍💻 Minhas Contribuições
+### 👨‍💻 Minhas Contribuições
 
 * Desenvolvimento de **interfaces web responsivas** para as páginas que explicam os papéis, eventos e artefatos do Scrum.
 * Criação de uma **tabela interativa baseada no método PACER**, utilizando HTML, CSS e lógica Python no backend.
@@ -98,7 +98,7 @@ Desenvolvemos uma **plataforma web interativa** que ensina os fundamentos e prá
 
 ---
 
-## 🛠️ Hard Skills
+### 🛠️ Hard Skills
 
 | Habilidade         | Nível de Proficiência                                                                                     |
 | ------------------ | --------------------------------------------------------------------------------------------------------- |
@@ -111,7 +111,7 @@ Desenvolvemos uma **plataforma web interativa** que ensina os fundamentos e prá
 
 ---
 
-## 🤝 Soft Skills (com exemplos práticos)
+### 🤝 Soft Skills (com exemplos práticos)
 
 * **Comunicação Eficaz:** Durante as reuniões semanais, fui responsável por apresentar o andamento da interface da tabela PACER, esclarecendo dúvidas tanto da equipe quanto dos professores.
 * **Trabalho em Equipe:** Colaborei diretamente com colegas que estavam aprendendo Python, explicando conceitos básicos de rotas no Flask e ajudando na integração frontend-backend.
