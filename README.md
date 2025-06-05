@@ -45,7 +45,9 @@ Atualmente continuo na empresa, buscando uma oportunidade efetiva na área de **
 ### 🔥 Projeto da Empresa Interna - FATEC
 
 🔗 Código-fonte e documentação: [GitHub](https://github.com/erickhoawata/DDT-1-Sem.git)
+
 👨‍🏫 **Professor P2:** Antônio Egydio São Thiago Graça
+
 👨‍🏫 **Professor M2:** Jean Carlos Lourenço Costa
 
 ---
@@ -129,7 +131,9 @@ Desenvolvemos uma **plataforma web interativa** que ensina os fundamentos e prá
 ## 🤖 Projeto Parrot AI — Chatbot com LangChain em Java
 
 🔗 Código-fonte e documentação: [GitHub](https://github.com/C0demain/ParrotAI.git)
+
 👨‍🏫 **Professor P2:** Giuliano Araujo Bertoti
+
 👨‍🏫 **Professor M2:** Claudio Etelvino de Lima
 
 ---
@@ -215,8 +219,11 @@ O sistema é **desktop**, com uma interface simples e intuitiva, além de contar
 ## 📊 Projeto Sales Dash — Dashboard de Comissões de Vendas
 
 🔗 Código-fonte e documentação: [GitHub](https://github.com/C0demain/sales-dash.git)
+
 👨‍🏫 **Professor P2:** Fernando Masanori Ashikaga
+
 👨‍🏫 **Professor M2:** Claudio Etelvino de Lima
+
 🤝 **Parceria:** Pro4Tech
 
 ---
@@ -333,8 +340,11 @@ Desenvolvemos o **Sales Dash**, uma plataforma web que permite:
 ## 🔧 Projeto Logflow — Gestão de Ordens de Serviço
 
 🔗 Código-fonte e documentação: [GitHub](https://github.com/C0demain/logflow.git)
+
 👨‍🏫 **Professor P2:** Juliana Forin Pasquini Martinez
+
 👨‍🏫 **Professor M2:** Fabiano Sabha Walczak
+
 🤝 **Parceria:** JJM Log
 
 ---
@@ -446,8 +456,11 @@ Desenvolvemos o **Logflow**, uma plataforma web que permite:
 ## 💸 Projeto RefundMe — Sistema de Reembolso Corporativo
 
 🔗 Código-fonte e documentação: [GitHub](https://github.com/C0demain/refundme.git)
+
 👨‍🏫 **Professor P2:** Gerson da Penha Neto  
+
 👨‍🏫 **Professor M2:** Ronaldo Emerick Santos
+
 🤝 **Parceria:** GSW Software
 
 ---
