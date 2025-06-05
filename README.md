@@ -40,74 +40,85 @@ Atualmente continuo na empresa, buscando uma oportunidade efetiva na área de **
 
 <details><summary>📌 <strong>Primeira API - DDT (Função: Scrum Master)</strong></summary>
 
-## 🏢 Projeto da Empresa Interna - FATEC  
+---
 
-- 👨‍🏫 **Professor P2:** Antônio Egydio São Thiago Graça  
-- 👨‍🏫 **Professor M2:** Jean Carlos Lourenço Costa  
+## 🔥 Projeto da Empresa Interna - FATEC
+
+👨‍🏫 **Professor P2:** Antônio Egydio São Thiago Graça
+👨‍🏫 **Professor M2:** Jean Carlos Lourenço Costa
 
 ---
 
-## ❗ Problema  
-Sempre que um novo colaborador é contratado e não possui familiaridade com o Método Scrum, é necessário que um funcionário mais experiente dedique tempo para explicar os conceitos de forma clara e acessível. Isso acaba desviando o profissional experiente de suas tarefas principais, comprometendo a produtividade.
+## ❗ Problema
+
+Sempre que um novo colaborador é contratado e não possui familiaridade com o **Método Scrum**, um funcionário experiente precisa interromper suas tarefas para explicar os conceitos. Isso gera perda de produtividade e sobrecarga para a equipe.
 
 ---
 
-## 💡 Solução  
-Criamos uma **plataforma web interativa** para ensinar os fundamentos e práticas do **Scrum** de forma prática, dinâmica e acessível. A plataforma conta com:
+## 💡 Solução
 
-- 📚 **Exemplos e fluxos explicativos**  
-- 🧩 **Simulações interativas**  
-- 🎥 **Vídeos didáticos**  
-- 🧭 **Trilhas de aprendizagem personalizadas**  
-- 📊 **Tabela de avaliação baseada no método PACER** (desenvolvido pela Fatec-SJC)  
-- 🧠 **Sistema de avaliação do conhecimento**  
+Desenvolvemos uma **plataforma web interativa** que ensina os fundamentos e práticas do Scrum de forma prática, acessível e dinâmica.
 
-Tudo isso para proporcionar um aprendizado completo, imersivo e aplicável em cenários reais.
+### Funcionalidades:
 
-🔗 [**Link do GitHub**](https://github.com/erickhoawata/portifolio-tg)
+* 📚 **Conteúdos didáticos** com exemplos e fluxos explicativos
+* 🧩 **Simulações interativas** dos papéis e cerimônias do Scrum
+* 🎥 **Vídeos explicativos** produzidos pela equipe
+* 🧭 **Trilhas de aprendizado personalizadas** para diferentes perfis
+* 📊 **Tabela interativa de avaliação baseada no método PACER (FATEC-SJC)**
+* 🧠 **Sistema de avaliação do conhecimento**
 
-<details><summary>💻 Aplicação</summary>
-  <p align="center">
-    <br>
-    <img src="https://github.com/user-attachments/assets/0e6d4387-f976-4c3f-8e43-333ae010a3ab" alt="foto">
-  </p>
-</details>
+🔗 [Link para o GitHub](#)
 
 ---
 
-## ⚙️ Tecnologias Utilizadas  
+## 💻 Tecnologias Utilizadas
 
-- **Frontend:** HTML, CSS, Bootstrap  
-- **Backend:** Python, Flask  
-- **Ferramentas:** Trello, Figma, VS Code, Canva  
-- **Documentação:** GitHub  
-
----
-
-## 👨‍💻 Minhas Contribuições  
-
-Atuei como membro da equipe de desenvolvimento, com foco em:
-
-- Criação de **interfaces web responsivas**, sendo páginas sobre as funções do metódo SCRUM
-- Desenvolvimento de uma **tabela interativa** baseada no método PACER, utilizando apenas **HTML, CSS e Python**  
-- Suporte nas **entregas finais** com atenção à usabilidade e funcionalidade completa da aplicação
+| Tecnologia    | Principal Uso                                                                              |
+| ------------- | ------------------------------------------------------------------------------------------ |
+| **HTML**      | Estruturação das páginas da aplicação web.                                                 |
+| **CSS**       | Estilização das interfaces, garantindo um design agradável e responsivo.                   |
+| **Bootstrap** | Criação de interfaces responsivas de forma rápida, com componentes pré-definidos.          |
+| **Python**    | Desenvolvimento da lógica de backend, manipulação de dados e regras de negócio.            |
+| **Flask**     | Framework web usado para criação das rotas, APIs e renderização de páginas dinâmicas.      |
+| **Trello**    | Gerenciamento de tarefas, acompanhamento de sprints e organização do fluxo de trabalho.    |
+| **Figma**     | Criação de protótipos navegáveis e definição do layout das telas antes do desenvolvimento. |
+| **Canva**     | Criação de elementos gráficos, como ícones, banners e materiais visuais da plataforma.     |
+| **VS Code**   | Ambiente de desenvolvimento utilizado para codificação e testes.                           |
+| **GitHub**    | Versionamento do código, controle de branches e colaboração em equipe.                     |
 
 ---
 
-## 🛠️ Hard Skills  
+## 👨‍💻 Minhas Contribuições
 
-- 🖥️ Desenvolvimento de interfaces com **HTML, CSS e Bootstrap**  
-- 🐍 Programação em **Python** com uso de **Flask** para criação de rotas e lógica da tabela PACER  
-- 🎨 Utilização de **Figma** e **Canva** para design e prototipagem  
-- 🌿 Versionamento com **GitHub**  
-- 📋 Organização de tarefas no **Trello**
+* Desenvolvimento de **interfaces web responsivas** para as páginas que explicam os papéis, eventos e artefatos do Scrum.
+* Criação de uma **tabela interativa baseada no método PACER**, utilizando HTML, CSS e lógica Python no backend.
+* Suporte nas **etapas finais**, com foco na usabilidade, testes e ajustes da plataforma.
+* Participação ativa nas **reuniões de planejamento**, definindo prioridades e soluções técnicas com a equipe.
 
 ---
 
-## 🤝 Soft Skills  
+## 🛠️ Hard Skills
 
-Durante o projeto, a **colaboração em equipe**, o **espírito de aprendizado contínuo** e a **autonomia** foram essenciais, especialmente em um cenário onde muitos dos integrantes estavam tendo o primeiro contato com algumas tecnologias.
+| Habilidade         | Nível de Proficiência                                                                                     |
+| ------------------ | --------------------------------------------------------------------------------------------------------- |
+| **HTML e CSS**     | Intermediário (capacidade de criar layouts responsivos e estilizações detalhadas)                         |
+| **Bootstrap**      | Intermediário (uso eficiente de componentes e grids para acelerar o desenvolvimento)                      |
+| **Python (Flask)** | Básico-Intermediário (criação de rotas, integração de backend com frontend, manipulação de dados simples) |
+| **Figma e Canva**  | Intermediário (criação de protótipos navegáveis e materiais gráficos)                                     |
+| **GitHub**         | Intermediário (versionamento, criação de branches, pull requests e resolução de conflitos simples)        |
+| **Trello**         | Intermediário (gerenciamento de tarefas, organização de sprints e acompanhamento do progresso)            |
 
-Além disso, a **comunicação eficaz** foi fundamental para a coordenação entre o time e na **apresentação final para os professores**. A experiência me ajudou a desenvolver ainda mais minha **proatividade**, **adaptabilidade** e a capacidade de **resolver problemas de forma criativa** diante dos desafios encontrados.
+---
+
+## 🤝 Soft Skills (com exemplos práticos)
+
+* **Comunicação Eficaz:** Durante as reuniões semanais, fui responsável por apresentar o andamento da interface da tabela PACER, esclarecendo dúvidas tanto da equipe quanto dos professores.
+* **Trabalho em Equipe:** Colaborei diretamente com colegas que estavam aprendendo Python, explicando conceitos básicos de rotas no Flask e ajudando na integração frontend-backend.
+* **Autonomia:** Assumi a responsabilidade de desenvolver toda a lógica da tabela PACER, estudando conceitos de Flask de forma autodidata e aplicando-os no projeto.
+* **Adaptabilidade:** Quando enfrentamos limitações com alguns componentes do Bootstrap, rapidamente busquei alternativas utilizando CSS personalizado para atender às necessidades da interface.
+* **Proatividade:** Além das tarefas atribuídas, tomei a iniciativa de revisar e ajustar pequenas inconsistências visuais nas telas criadas por outros membros, garantindo uma maior padronização na interface.
+
+---
 
 </details>
