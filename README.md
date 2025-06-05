@@ -123,7 +123,7 @@ Desenvolvemos uma **plataforma web interativa** que ensina os fundamentos e prá
 
 </details>
 
-<details>📌 <strong>Segunda API - C0demain (Função: Product Owner)</strong>
+<details><summary>📌 <strong>Segunda API - C0demain (Função: Product Owner)</strong></summary>
 
 ---
 
@@ -209,7 +209,7 @@ O sistema é **desktop**, com uma interface simples e intuitiva, além de contar
 
 </details>
 
-<details>📌 <strong>Terceira API - C0demain (Função: Time de desenvolvimento)</strong>
+<details><summary>📌 <strong>Terceira API - C0demain (Função: Time de desenvolvimento)</strong></summary>
 ---
 
 ## 📊 Projeto Sales Dash — Dashboard de Comissões de Vendas
