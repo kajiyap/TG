@@ -563,3 +563,120 @@ O projeto foi pensado para atender tanto ao lado operacional (funcionários) qua
 ---
 
 </details>
+<details><summary>📌 <strong>Sexta API - C0demain (Função: Scrum Master)</strong></summary>
+
+---
+
+## 🍏 Projeto NutriXpert — Assistente Inteligente de Nutrição  
+🔗 Código-fonte e documentação: [GitHub](https://github.com/C0demain/nutriXpert)
+
+👨‍🏫 **Professor P2:** José Walmir Gonçalves Duque 
+👨‍🏫 **Professor M2:** Claudio Etelvino de Lima
+🤝 **Parceria:** Xertica AI
+
+---
+
+## ❗ Problema
+
+Grande parte das pessoas tem dificuldade em manter hábitos alimentares consistentes. Falta de conhecimento nutricional, excesso de informações contraditórias, dificuldade em montar dietas e falta de acompanhamento tornam o processo cansativo e pouco eficiente.  
+Além disso, plataformas existentes são genéricas e não consideram as necessidades individuais de cada usuário.
+
+---
+
+## 💡 Solução
+
+O **NutriXpert** é um sistema inteligente criado para oferecer suporte nutricional personalizado, combinando IA, análise alimentar e acompanhamento histórico. Ele fornece:
+
+- 🥗 **Recomendações de refeições** baseadas em perfil, metas e preferências.  
+- 🔍 **Avaliação nutricional automática** de alimentos e dietas.  
+- 🤖 **Agente conversacional inteligente**, capaz de responder dúvidas e sugerir cardápios.  
+- 📊 **Painel administrativo** para nutricionistas e gestores acompanharem dados, usuários e métricas.  
+
+A solução integra IA, banco de dados nutricional, histórico e fluxo de conversa para entregar uma experiência completa.
+
+---
+
+### 🔥 Tecnologias Utilizadas
+
+| Tecnologia              | Principal Uso |
+|------------------------|----------------------------------------------------------------|
+| **Java + Spring Boot** | Backend principal (API, lógica nutricional, autenticação). |
+| **Python + medGemma**  | Agente de IA conversacional e geração de recomendações. |
+| **PostgreSQL**         | Armazenamento estruturado de usuários, anamnese e histórico. |
+| **Vue.js**             | Interface de chat e dashboard nutricional. |
+| **ChromaDB**           | Vetorização, embeddings e memória do assistente. |
+| **Postman + Notion**   | Testes, documentação e acompanhamento. |
+
+---
+
+### 🛠️ Ferramentas
+
+| Ferramenta | Uso |
+|------------|------------------------------------------------------------------------|
+| **Jira** | Sprint backlog, user stories, priorização e documentação ágil. |
+| **GitHub Projects** | Kanban, integração de PRs e versionamento. |
+| **Figma** | Prototipação da interface, componentes e fluxos do chat. |
+| **Canva** | Materiais visuais e apresentações internas. |
+
+---
+
+### 🔄 Metodologia Ágil — Scrum
+
+| Evento/Artefato | Aplicação no Projeto |
+|------------------|----------------------------------------------------------------|
+| **Product Backlog** | Criação e priorização de mais de 27 user stories. |
+| **Sprint Backlog** | Organização de entregas para cada ciclo de 3 semanas. |
+| **Daily Scrum** | Acompanhamento diário de impedimentos e progresso. |
+| **Sprint Review** | Demonstração de incrementos ao professor e parceiros. |
+| **Sprint Retrospective** | Identificação de melhorias e ajustes no fluxo. |
+| **Incremento** | Entregas contínuas envolvendo IA, backend e frontend. |
+
+---
+
+## 🏆 Minhas Contribuições (Scrum Master + Apoio Técnico)
+
+Mesmo como **Scrum Master**, participei ativamente do desenvolvimento técnico, garantindo que o time tivesse suporte operacional e organizacional.
+
+### 🎯 Atuação na Gestão
+
+- 📅 **Liderança de todas as cerimônias Scrum** (planning, daily, review e retro).  
+- 🧭 **Remoção de impedimentos** e suporte ao time durante as sprints.  
+- 🗂️ **Organização completa do board no Jira**, priorização e definição de sprints.  
+- 🤝 **Mediação entre equipe, professores e empresa parceira (GSW)**.  
+- 🔄 **Redistribuição de tarefas** quando surgiam gargalos.  
+
+### 💻 Atuação Técnica (Apoio ao Time)
+
+- 🧑‍💻 Suporte no backend (Spring Boot) para ajustes de rotas e entidades.  
+- 🔗 Apoio na integração do agente de IA (Python) com o backend.  
+- 🧪 Testes completos de API usando Postman e Notion.  
+- 🎨 Intervenções na interface Vue.js para padronização visual e acessibilidade.  
+- 🧠 Revisão e validação da lógica nutricional e comportamento do agente.  
+- 🛠️ Conclusão de tarefas críticas em momentos de alto volume.  
+
+---
+
+### 🛠️ Hard Skills (utilizadas no projeto)
+
+| Habilidade | Nível |
+|-----------|--------------------------------------------------------------|
+| **Spring Boot + Java** | Intermediário |
+| **Python + IA (medGemma)** | Intermediário |
+| **Vue.js** | Intermediário |
+| **PostgreSQL** | Intermediário |
+| **APIs REST** | Intermediário |
+| **Git e GitHub (Multirepo)** | Intermediário |
+
+---
+
+### 🤝 Soft Skills (com exemplos práticos)
+
+- **Liderança:** facilitação do trabalho do time e condução das cerimônias.  
+- **Organização:** estruturação dos quadros, artefatos e checklists.  
+- **Comunicação:** alinhamento constante com stakeholders e professores.  
+- **Gestão de Tempo:** manutenção do ritmo de entregas nas três sprints.  
+- **Proatividade Técnica:** suporte direto ao desenvolvimento em etapas críticas.  
+
+---
+
+</details>
