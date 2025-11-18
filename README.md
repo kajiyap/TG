@@ -13,8 +13,7 @@ Com o objetivo de aprofundar meus conhecimentos e me profissionalizar na área, 
 Além da graduação, participei de cursos e bootcamps que me proporcionaram uma visão mais ampla e boas práticas com tecnologias modernas de desenvolvimento de software.
 
 ### 💼 Histórico Profissional  
-Iniciei minha carreira profissional em 2023 como **auxiliar administrativo** na **DQO Construtora**. Fui responsável inicialmente pelo controle do almoxarifado, mas logo passei a desenvolver **novos procedimentos e automatizações**, utilizando **planilhas em Excel** e **scripts em Python** para otimizar processos internos.  
-Atualmente continuo na empresa, buscando uma oportunidade efetiva na área de **Desenvolvimento de Sistemas**.
+Iniciei minha carreira profissional em 2023 como **auxiliar administrativo** na **DQO Construtora**. Fui responsável inicialmente pelo controle do almoxarifado, mas logo passei a desenvolver **novos procedimentos e automatizações**, utilizando **planilhas em Excel** e **scripts em Python** para otimizar processos internos. Desde agosto de 2025 trabalho como estágiario em desenvolvimento fullstack em uma start-up, a Octolk, onde utilizo NextJS para frontend e NestJS para backend
 
 ---
 
