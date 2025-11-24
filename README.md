@@ -571,7 +571,7 @@ O projeto foi pensado para atender tanto ao lado operacional (funcionários) qua
 
 👨‍🏫 **Professor P2:** José Walmir Gonçalves Duque 
 👨‍🏫 **Professor M2:** Claudio Etelvino de Lima
-🤝 **Parceria:** Xertica AI
+🤝 **Parceria:** Xertica.ai, empresa com foco em soluções avançadas de GenAI e serviços de consultoria em nuvem para acelerar processos, resultados e produtividade na América Latina.
 
 ---
 
@@ -634,7 +634,7 @@ A solução integra IA, banco de dados nutricional, histórico e fluxo de conver
 
 ## 🏆 Minhas Contribuições (Scrum Master + Apoio Técnico)
 
-Mesmo como **Scrum Master**, participei ativamente do desenvolvimento técnico, garantindo que o time tivesse suporte operacional e organizacional.
+Mesmo como **Scrum Master**, participei ativamente do desenvolvimento técnico, na página de chat (frontend) e no funcionamento do sistema multi-agente, garantindo que o time tivesse suporte operacional e organizacional.
 
 ### 🎯 Atuação na Gestão
 
@@ -646,12 +646,11 @@ Mesmo como **Scrum Master**, participei ativamente do desenvolvimento técnico, 
 
 ### 💻 Atuação Técnica (Apoio ao Time)
 
-- 🧑‍💻 Suporte no backend (Spring Boot) para ajustes de rotas e entidades.  
-- 🔗 Apoio na integração do agente de IA (Python) com o backend.  
-- 🧪 Testes completos de API usando Postman e Notion.  
-- 🎨 Intervenções na interface Vue.js para padronização visual e acessibilidade.  
+- 🧑‍💻 Suporte no frontend (Vue) para ajustes de páginas.  
+- 🔗 Apoio no funcionamento do agente de IA (Python).  
+- 🧪 Testes completos de API usando Swagger.  
 - 🧠 Revisão e validação da lógica nutricional e comportamento do agente.  
-- 🛠️ Conclusão de tarefas críticas em momentos de alto volume.  
+- 🛠️ Auxílio na conclusão de tarefas críticas em momentos de alto volume.  
 
 ---
 
@@ -660,8 +659,8 @@ Mesmo como **Scrum Master**, participei ativamente do desenvolvimento técnico, 
 | Habilidade | Nível |
 |-----------|--------------------------------------------------------------|
 | **Spring Boot + Java** | Intermediário |
-| **Python + IA (medGemma)** | Intermediário |
-| **Vue.js** | Intermediário |
+| **Python + IA (medGemma)** | Básico |
+| **Vue.js** | Básico |
 | **PostgreSQL** | Intermediário |
 | **APIs REST** | Intermediário |
 | **Git e GitHub (Multirepo)** | Intermediário |
@@ -670,11 +669,23 @@ Mesmo como **Scrum Master**, participei ativamente do desenvolvimento técnico, 
 
 ### 🤝 Soft Skills (com exemplos práticos)
 
-- **Liderança:** facilitação do trabalho do time e condução das cerimônias.  
-- **Organização:** estruturação dos quadros, artefatos e checklists.  
-- **Comunicação:** alinhamento constante com stakeholders e professores.  
-- **Gestão de Tempo:** manutenção do ritmo de entregas nas três sprints.  
-- **Proatividade Técnica:** suporte direto ao desenvolvimento em etapas críticas.  
+* **Liderança e Mediação:**
+  Atuei na mediação durante a definição das tarefas de IA — que tinham alta complexidade e dificuldade de estimativa — ajudando a equipe a chegar em acordos e evitando conflitos sobre esforço e priorização.
+
+* **Organização da Equipe:**
+  Como as atividades de IA exigiam mais estudo e experimentação, participei da distribuição estratégica das tarefas. Quando alguém assumia uma demanda mais pesada, ajudava a ajustar o restante do quadro para que backend e frontend seguissem avançando sem travar.
+
+* **Comunicação com Professores:**
+  Mantive alinhamento frequente com os orientadores para explicar gargalos técnicos, como problemas no chunking e inconsistências nos embeddings, garantindo expectativas corretas sobre prazos e entregas.
+
+* **Gestão de Tempo e Resiliência:**
+  Em momentos críticos — como quando o modelo gerava vetores inconsistentes — dediquei tempo extra para investigar e corrigir falhas sem comprometer as entregas das sprints.
+
+* **Proatividade e Suporte Técnico:**
+  Além das minhas atividades, ajudei colegas em bloqueios no backend (endpoints da busca semântica) e no frontend (apresentação dos resultados da IA), mantendo o fluxo do projeto.
+
+* **Resolução de Problemas Complexos:**
+  Contribuí na solução de erros imprevisíveis, como limitações de token, incompatibilidades de bibliotecas e falhas na integração com o VectorDB, buscando alternativas até chegar a uma solução estável.
 
 ---
 
